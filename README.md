@@ -5,7 +5,13 @@
 
 ## 目录
 
+2019-08-24
+
+> 第2题：wtf is THIS
+
 2019-08-23
 
 > 第1题：再也不用担心面试官问我vuex了
+
+解析: [第1天](https://github.com/neptoo/one-step/issues/1)
 
