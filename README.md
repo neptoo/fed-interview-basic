@@ -5,11 +5,21 @@
 
 ## 目录
 
+2019-08-25
+
+> 第3题：变量提升 
+
+解析: [第3天](https://github.com/neptoo/one-step/issues/3)
+
+
+
 2019-08-24
 
 > 第2题：this用法：6段代码掌握this 
 
 解析:  [第2天](https://github.com/neptoo/one-step/issues/2)
+
+
 
 2019-08-23
 
