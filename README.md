@@ -5,6 +5,14 @@
 
 ## 目录
 
+2019-08-26
+
+> 第4题：Canvas基础 
+
+解析: [第4天](https://github.com/neptoo/one-step/issues/4)
+
+
+
 2019-08-25
 
 > 第3题：变量提升 
