@@ -5,6 +5,14 @@
 
 ## 目录
 
+2019-08-27
+
+> 第5题：浏览器缓存/存储
+
+解析: [第5天](https://github.com/neptoo/one-step/issues/5)
+
+
+
 2019-08-26
 
 > 第4题：Canvas基础 
