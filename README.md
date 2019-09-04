@@ -7,7 +7,7 @@
 
 2019-09-04
 
-> 第12题：Cookie
+> 第13题：Cookie
 
 解析: [第13天](https://github.com/neptoo/one-step/issues/13)
 
