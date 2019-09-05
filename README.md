@@ -5,9 +5,17 @@
 
 ## 目录
 
+2019-09-05
+
+> 第14题：SQL基础命令
+
+解析: [第14天](https://github.com/neptoo/one-step/issues/14)
+
+
+
 2019-09-04
 
-> 第12题：Cookie
+> 第13题：Cookie
 
 解析: [第13天](https://github.com/neptoo/one-step/issues/13)
 
