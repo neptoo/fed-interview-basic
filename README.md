@@ -5,6 +5,14 @@
 
 ## 目录
 
+2019-09-06
+
+> 第15题：async/await和promise的执行顺序
+
+解析: [第15天](https://github.com/neptoo/one-step/issues/15)
+
+
+
 2019-09-05
 
 > 第14题：SQL基础命令
