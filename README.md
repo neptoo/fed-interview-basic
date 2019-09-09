@@ -5,6 +5,14 @@
 
 ## 目录
 
+2019-09-09
+
+> 第18题：防抖
+
+解析: [第18天](https://github.com/neptoo/one-step/issues/18)
+
+
+
 2019-09-08
 
 > 第17题：async / await
