@@ -5,6 +5,14 @@
 
 ## 目录
 
+2019-09-10
+
+> 第19题：typeof & instanceof
+
+解析: [第19天](https://github.com/neptoo/one-step/issues/19)
+
+
+
 2019-09-09
 
 > 第18题：防抖
