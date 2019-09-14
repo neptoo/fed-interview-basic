@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-14
+
+> 第23题：表单文件上传
+
+解析: [第23天](https://github.com/neptoo/one-step/issues/23)
+
+
+
 2019-09-13
 
 > 第22题：跨域
@@ -24,22 +32,6 @@
 > 第21题：递归
 
 解析: [第21天](https://github.com/neptoo/one-step/issues/21)
-
-
-
-2019-09-11
-
-> 第20题：盒子模型
-
-解析: [第20天](https://github.com/neptoo/one-step/issues/20)
-
-
-
-2019-09-10
-
-> 第19题：typeof & instanceof
-
-解析: [第19天](https://github.com/neptoo/one-step/issues/19)
 
 
 
