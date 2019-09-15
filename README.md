@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-15
+
+> 第24题：从输入url到页面展示
+
+解析: [第24天](https://github.com/neptoo/one-step/issues/24)
+
+
+
 2019-09-14
 
 > 第23题：表单文件上传
@@ -24,14 +32,6 @@
 > 第22题：跨域
 
 解析: [第22天](https://github.com/neptoo/one-step/issues/22)
-
-
-
-2019-09-12
-
-> 第21题：递归
-
-解析: [第21天](https://github.com/neptoo/one-step/issues/21)
 
 
 
