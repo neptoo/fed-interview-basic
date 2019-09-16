@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-16
+
+> 第25题：Promise
+
+解析: [第25天](https://github.com/neptoo/one-step/issues/25)
+
+
+
 2019-09-15
 
 > 第24题：从输入url到页面展示
@@ -24,14 +32,6 @@
 > 第23题：表单文件上传
 
 解析: [第23天](https://github.com/neptoo/one-step/issues/23)
-
-
-
-2019-09-13
-
-> 第22题：跨域
-
-解析: [第22天](https://github.com/neptoo/one-step/issues/22)
 
 
 
