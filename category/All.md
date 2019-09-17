@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-09-17
+
+> 第26题：字典序第k小数字
+
+解析: [第26天](https://github.com/neptoo/one-step/issues/26)
+
+
+
 2019-09-16
 
 > 第25题：Promise

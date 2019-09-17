@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-17
+
+> 第26题：字典序第k小数字
+
+解析: [第26天](https://github.com/neptoo/one-step/issues/26)
+
+
+
 2019-09-16
 
 > 第25题：Promise
@@ -24,14 +32,6 @@
 > 第24题：从输入url到页面展示
 
 解析: [第24天](https://github.com/neptoo/one-step/issues/24)
-
-
-
-2019-09-14
-
-> 第23题：表单文件上传
-
-解析: [第23天](https://github.com/neptoo/one-step/issues/23)
 
 
 
