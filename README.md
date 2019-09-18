@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-18
+
+> 第27题：TCP连接与拥塞控制
+
+解析: [第27天](https://github.com/neptoo/one-step/issues/27)
+
+
+
 2019-09-17
 
 > 第26题：字典序第k小数字
@@ -24,14 +32,6 @@
 > 第25题：Promise
 
 解析: [第25天](https://github.com/neptoo/one-step/issues/25)
-
-
-
-2019-09-15
-
-> 第24题：从输入url到页面展示
-
-解析: [第24天](https://github.com/neptoo/one-step/issues/24)
 
 
 
