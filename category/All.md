@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-09-20
+
+> 第29题：WebSocket
+
+解析: [第29天](https://github.com/neptoo/one-step/issues/29)
+
+
+
 2019-09-19
 
 > 第28题：HTTP缓存

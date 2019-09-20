@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-20
+
+> 第29题：WebSocket
+
+解析: [第29天](https://github.com/neptoo/one-step/issues/29)
+
+<br />
+
 2019-09-19
 
 > 第28题：HTTP缓存
@@ -24,14 +32,6 @@
 > 第27题：TCP连接与拥塞控制
 
 解析: [第27天](https://github.com/neptoo/one-step/issues/27)
-
-<br />
-
-2019-09-17
-
-> 第26题：字典序第k小数字
-
-解析: [第26天](https://github.com/neptoo/one-step/issues/26)
 
 <br />
 
