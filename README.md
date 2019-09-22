@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-22
+
+> 第31题：二叉树的前/中/后序遍历
+
+解析: [第31天](https://github.com/neptoo/one-step/issues/31)
+
+<br />
+
 2019-09-21
 
 > 第30题：二叉树的实现
@@ -26,16 +34,6 @@
 解析: [第29天](https://github.com/neptoo/one-step/issues/29)
 
 <br />
-
-2019-09-19
-
-> 第28题：HTTP缓存
-
-解析: [第28天](https://github.com/neptoo/one-step/issues/28)
-
-<br />
-
-
 
 ... ... ...
 

@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-09-22
+
+> 第31题：二叉树的前/中/后序遍历
+
+解析: [第31天](https://github.com/neptoo/one-step/issues/31)
+
+<br />
+
 > 第30题：二叉树的实现
 
 解析: [第30天](https://github.com/neptoo/one-step/issues/30)
