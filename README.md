@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-23
+
+> 第32题：Webpack
+
+解析: [第32天](https://github.com/neptoo/one-step/issues/32)
+
+<br />
+
 2019-09-22
 
 > 第31题：二叉树的前/中/后序遍历
@@ -24,14 +32,6 @@
 > 第30题：二叉树的实现
 
 解析: [第30天](https://github.com/neptoo/one-step/issues/30)
-
-<br />
-
-2019-09-20
-
-> 第29题：WebSocket
-
-解析: [第29天](https://github.com/neptoo/one-step/issues/29)
 
 <br />
 
