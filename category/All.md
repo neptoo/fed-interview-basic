@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-09-24
+
+> 第33题：事件委托
+
+解析: [第33天](https://github.com/neptoo/one-step/issues/33)
+
+<br />
+
 2019-09-23
 
 > 第32题：Webpack

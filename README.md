@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-24
+
+> 第33题：事件委托
+
+解析: [第33天](https://github.com/neptoo/one-step/issues/33)
+
+<br />
+
 2019-09-23
 
 > 第32题：Webpack
@@ -24,14 +32,6 @@
 > 第31题：二叉树的前/中/后序遍历
 
 解析: [第31天](https://github.com/neptoo/one-step/issues/31)
-
-<br />
-
-2019-09-21
-
-> 第30题：二叉树的实现
-
-解析: [第30天](https://github.com/neptoo/one-step/issues/30)
 
 <br />
 
