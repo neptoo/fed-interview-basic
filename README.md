@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-26
+
+> 第35题：SEO
+
+解析: [第35天](https://github.com/neptoo/one-step/issues/35)
+
+<br />
+
 2019-09-25
 
 > 第34题：继承
@@ -24,14 +32,6 @@
 > 第33题：事件委托
 
 解析: [第33天](https://github.com/neptoo/one-step/issues/33)
-
-<br />
-
-2019-09-23
-
-> 第32题：Webpack
-
-解析: [第32天](https://github.com/neptoo/one-step/issues/32)
 
 <br />
 
