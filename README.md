@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-09-27
+
+> 第36题：深浅拷贝
+
+解析: [第36天](https://github.com/neptoo/one-step/issues/36)
+
+<br />
+
 2019-09-26
 
 > 第35题：SEO
@@ -24,14 +32,6 @@
 > 第34题：继承
 
 解析: [第34天](https://github.com/neptoo/one-step/issues/34)
-
-<br />
-
-2019-09-24
-
-> 第33题：事件委托
-
-解析: [第33天](https://github.com/neptoo/one-step/issues/33)
 
 <br />
 
