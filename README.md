@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-06
+
+> 第38题：二分查找
+
+解析: [第38天](https://github.com/neptoo/one-step/issues/38)
+
+<br />
+
 2019-09-28
 
 > 第37题：水平垂直居中
@@ -24,14 +32,6 @@
 > 第36题：深浅拷贝
 
 解析: [第36天](https://github.com/neptoo/one-step/issues/36)
-
-<br />
-
-2019-09-26
-
-> 第35题：SEO
-
-解析: [第35天](https://github.com/neptoo/one-step/issues/35)
 
 <br />
 
