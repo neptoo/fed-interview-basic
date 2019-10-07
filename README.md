@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-07
+
+> 第39题：清除浮动
+
+解析: [第39天](https://github.com/neptoo/one-step/issues/39)
+
+<br />
+
 2019-10-06
 
 > 第38题：二分查找
@@ -24,14 +32,6 @@
 > 第37题：水平垂直居中
 
 解析: [第37天](https://github.com/neptoo/one-step/issues/37)
-
-<br />
-
-2019-09-27
-
-> 第36题：深浅拷贝
-
-解析: [第36天](https://github.com/neptoo/one-step/issues/36)
 
 <br />
 
