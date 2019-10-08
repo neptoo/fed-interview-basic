@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-08
+
+> 第40题：CSS3相关知识点
+
+解析: [第40天](https://github.com/neptoo/one-step/issues/40)
+
+<br />
+
 2019-10-07
 
 > 第39题：清除浮动
@@ -24,14 +32,6 @@
 > 第38题：二分查找
 
 解析: [第38天](https://github.com/neptoo/one-step/issues/38)
-
-<br />
-
-2019-09-28
-
-> 第37题：水平垂直居中
-
-解析: [第37天](https://github.com/neptoo/one-step/issues/37)
 
 <br />
 
