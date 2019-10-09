@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-09
+
+> 第41题：移动端适配
+
+解析: [第41天](https://github.com/neptoo/one-step/issues/41)
+
+<br />
+
 2019-10-08
 
 > 第40题：CSS3相关知识点
@@ -24,14 +32,6 @@
 > 第39题：清除浮动
 
 解析: [第39天](https://github.com/neptoo/one-step/issues/39)
-
-<br />
-
-2019-10-06
-
-> 第38题：二分查找
-
-解析: [第38天](https://github.com/neptoo/one-step/issues/38)
 
 <br />
 
