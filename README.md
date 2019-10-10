@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-10
+
+> 第42题：CSS动画
+
+解析: [第42天](https://github.com/neptoo/one-step/issues/42)
+
+<br />
+
 2019-10-09
 
 > 第41题：移动端适配
@@ -24,14 +32,6 @@
 > 第40题：CSS3相关知识点
 
 解析: [第40天](https://github.com/neptoo/one-step/issues/40)
-
-<br />
-
-2019-10-07
-
-> 第39题：清除浮动
-
-解析: [第39天](https://github.com/neptoo/one-step/issues/39)
 
 <br />
 
