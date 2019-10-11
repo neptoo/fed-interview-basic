@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-11
+
+> 第43题：浏览器原理
+
+解析: [第43天](https://github.com/neptoo/one-step/issues/43)
+
+<br />
+
 2019-10-10
 
 > 第42题：CSS动画
@@ -24,14 +32,6 @@
 > 第41题：移动端适配
 
 解析: [第41天](https://github.com/neptoo/one-step/issues/41)
-
-<br />
-
-2019-10-08
-
-> 第40题：CSS3相关知识点
-
-解析: [第40天](https://github.com/neptoo/one-step/issues/40)
 
 <br />
 
