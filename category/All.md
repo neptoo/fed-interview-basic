@@ -1,5 +1,21 @@
 ## 题目汇总
 
+2019-10-14
+
+> 第46题：Webpack优化
+
+解析: [第46天](https://github.com/neptoo/one-step/issues/46)
+
+<br />
+
+2019-10-13
+
+> 第45题：发布订阅者模式
+
+解析: [第45天](https://github.com/neptoo/one-step/issues/45)
+
+<br />
+
 2019-10-12
 
 > 第44题：前端算法之字符串

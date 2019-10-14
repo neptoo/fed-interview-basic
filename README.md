@@ -11,27 +11,27 @@
 
 ## 目录
 
+2019-10-14
+
+> 第46题：Webpack优化
+
+解析: [第46天](https://github.com/neptoo/one-step/issues/46)
+
+<br />
+
+2019-10-13
+
+> 第45题：发布订阅者模式
+
+解析: [第45天](https://github.com/neptoo/one-step/issues/45)
+
+<br />
+
 2019-10-12
 
 > 第44题：前端算法之字符串
 
 解析: [第44天](https://github.com/neptoo/one-step/issues/44)
-
-<br />
-
-2019-10-11
-
-> 第43题：浏览器原理
-
-解析: [第43天](https://github.com/neptoo/one-step/issues/43)
-
-<br />
-
-2019-10-10
-
-> 第42题：CSS动画
-
-解析: [第42天](https://github.com/neptoo/one-step/issues/42)
 
 <br />
 
