@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-10-15
+
+> 第47题：vertical-align
+
+解析: [第47天](https://github.com/neptoo/one-step/issues/47)
+
+<br />
+
 2019-10-14
 
 > 第46题：Webpack优化

@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-15
+
+> 第47题：vertical-align
+
+解析: [第47天](https://github.com/neptoo/one-step/issues/47)
+
+<br />
+
 2019-10-14
 
 > 第46题：Webpack优化
@@ -24,14 +32,6 @@
 > 第45题：发布订阅者模式
 
 解析: [第45天](https://github.com/neptoo/one-step/issues/45)
-
-<br />
-
-2019-10-12
-
-> 第44题：前端算法之字符串
-
-解析: [第44天](https://github.com/neptoo/one-step/issues/44)
 
 <br />
 
