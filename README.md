@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-16
+
+> 第48题：vue中的key
+
+解析: [第48天](https://github.com/neptoo/one-step/issues/48)
+
+<br />
+
 2019-10-15
 
 > 第47题：vertical-align
@@ -24,14 +32,6 @@
 > 第46题：Webpack优化
 
 解析: [第46天](https://github.com/neptoo/one-step/issues/46)
-
-<br />
-
-2019-10-13
-
-> 第45题：发布订阅者模式
-
-解析: [第45天](https://github.com/neptoo/one-step/issues/45)
 
 <br />
 

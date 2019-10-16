@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-10-16
+
+> 第48题：vue中的key
+
+解析: [第48天](https://github.com/neptoo/one-step/issues/48)
+
+<br />
+
 2019-10-15
 
 > 第47题：vertical-align
