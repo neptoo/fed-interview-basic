@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-17
+
+> 第49题：前端算法之快速排序
+
+解析: [第49天](https://github.com/neptoo/one-step/issues/49)
+
+<br />
+
 2019-10-16
 
 > 第48题：vue中的key
@@ -24,14 +32,6 @@
 > 第47题：vertical-align
 
 解析: [第47天](https://github.com/neptoo/one-step/issues/47)
-
-<br />
-
-2019-10-14
-
-> 第46题：Webpack优化
-
-解析: [第46天](https://github.com/neptoo/one-step/issues/46)
 
 <br />
 
