@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-18
+
+> 第50题：前端算法之归并排序
+
+解析: [第50天](https://github.com/neptoo/one-step/issues/50)
+
+<br />
+
 2019-10-17
 
 > 第49题：前端算法之快速排序
@@ -24,14 +32,6 @@
 > 第48题：vue中的key
 
 解析: [第48天](https://github.com/neptoo/one-step/issues/48)
-
-<br />
-
-2019-10-15
-
-> 第47题：vertical-align
-
-解析: [第47天](https://github.com/neptoo/one-step/issues/47)
 
 <br />
 
