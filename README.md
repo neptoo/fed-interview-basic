@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-19
+
+> 第51题：前端算法之选择排序
+
+解析: [第51天](https://github.com/neptoo/one-step/issues/51)
+
+<br />
+
 2019-10-18
 
 > 第50题：前端算法之归并排序
@@ -24,14 +32,6 @@
 > 第49题：前端算法之快速排序
 
 解析: [第49天](https://github.com/neptoo/one-step/issues/49)
-
-<br />
-
-2019-10-16
-
-> 第48题：vue中的key
-
-解析: [第48天](https://github.com/neptoo/one-step/issues/48)
 
 <br />
 
