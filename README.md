@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-25
+
+> 第57题：Node.js入门（1）
+
+解析: [第57天](https://github.com/neptoo/one-step/issues/57)
+
+<br />
+
 2019-10-24
 
 > 第56题：原生 JS 检测数据类型（2）
@@ -40,38 +48,6 @@
 > 第53题：前端算法之冒泡排序
 
 解析: [第53天](https://github.com/neptoo/one-step/issues/53)
-
-<br />
-
-2019-10-20
-
-> 第52题：前端算法之插入排序
-
-解析: [第52天](https://github.com/neptoo/one-step/issues/52)
-
-<br />
-
-2019-10-19
-
-> 第51题：前端算法之选择排序
-
-解析: [第51天](https://github.com/neptoo/one-step/issues/51)
-
-<br />
-
-2019-10-18
-
-> 第50题：前端算法之归并排序
-
-解析: [第50天](https://github.com/neptoo/one-step/issues/50)
-
-<br />
-
-2019-10-17
-
-> 第49题：前端算法之快速排序
-
-解析: [第49天](https://github.com/neptoo/one-step/issues/49)
 
 <br />
 
