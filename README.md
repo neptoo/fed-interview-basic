@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-27
+
+> 第59题：Node.js 与 Event Loop
+
+解析: [第59天](https://github.com/neptoo/one-step/issues/59)
+
+<br />
+
 2019-10-26
 
 > 第58题：正向代理与反向代理 
@@ -24,38 +32,6 @@
 > 第57题：Node.js入门（1）
 
 解析: [第57天](https://github.com/neptoo/one-step/issues/57)
-
-<br />
-
-2019-10-24
-
-> 第56题：原生 JS 检测数据类型（2）
-
-解析: [第56天](https://github.com/neptoo/one-step/issues/56)
-
-<br />
-
-2019-10-23
-
-> 第55题：原生 JS 检测数据类型
-
-解析: [第55天](https://github.com/neptoo/one-step/issues/55)
-
-<br />
-
-2019-10-22
-
-> 第54题：原生 JS 之基础概念
-
-解析: [第54天](https://github.com/neptoo/one-step/issues/54)
-
-<br />
-
-2019-10-21
-
-> 第53题：前端算法之冒泡排序
-
-解析: [第53天](https://github.com/neptoo/one-step/issues/53)
 
 <br />
 

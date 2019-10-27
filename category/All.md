@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-10-27
+
+> 第59题：Node.js 与 Event Loop
+
+解析: [第59天](https://github.com/neptoo/one-step/issues/59)
+
+<br />
+
 2019-10-26
 
 > 第58题：正向代理与反向代理 
