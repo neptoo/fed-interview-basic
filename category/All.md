@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-10-28
+
+> 第60题：原生 JS 之变量类型与 Symbol
+
+解析: [第60天](https://github.com/neptoo/one-step/issues/60)
+
+<br />
+
 2019-10-27
 
 > 第59题：Node.js 与 Event Loop

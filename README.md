@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-10-28
+
+> 第60题：原生 JS 之变量类型与 Symbol
+
+解析: [第60天](https://github.com/neptoo/one-step/issues/60)
+
+<br />
+
 2019-10-27
 
 > 第59题：Node.js 与 Event Loop
@@ -24,14 +32,6 @@
 > 第58题：正向代理与反向代理 
 
 解析: [第58天](https://github.com/neptoo/one-step/issues/58)
-
-<br />
-
-2019-10-25
-
-> 第57题：Node.js入门（1）
-
-解析: [第57天](https://github.com/neptoo/one-step/issues/57)
 
 <br />
 
