@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-10-29
+
+> 第61题：ES6对象与ES5对象
+
+解析: [第61天](https://github.com/neptoo/one-step/issues/61)
+
+<br />
+
 2019-10-28
 
 > 第60题：原生 JS 之变量类型与 Symbol
