@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-11-01
+
+> 第64题：原生 JS 面试题
+
+解析: [第64天](https://github.com/neptoo/one-step/issues/64)
+
+<br />
+
 2019-10-31
 
 > 第63题：CSS阴影动画优化
@@ -32,30 +40,6 @@
 > 第61题：ES6对象与ES5对象
 
 解析: [第61天](https://github.com/neptoo/one-step/issues/61)
-
-<br />
-
-2019-10-28
-
-> 第60题：原生 JS 之变量类型与 Symbol
-
-解析: [第60天](https://github.com/neptoo/one-step/issues/60)
-
-<br />
-
-2019-10-27
-
-> 第59题：Node.js 与 Event Loop
-
-解析: [第59天](https://github.com/neptoo/one-step/issues/59)
-
-<br />
-
-2019-10-26
-
-> 第58题：正向代理与反向代理 
-
-解析: [第58天](https://github.com/neptoo/one-step/issues/58)
 
 <br />
 
