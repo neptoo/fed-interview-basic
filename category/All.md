@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-11-03
+
+> 第66题：实现CodingMan
+
+解析: [第66天](https://github.com/neptoo/one-step/issues/66)
+
+<br />
+
 2019-11-02
 
 > 第65题：实现数组map方法

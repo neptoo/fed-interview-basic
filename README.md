@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-11-03
+
+> 第66题：实现CodingMan
+
+解析: [第66天](https://github.com/neptoo/one-step/issues/66)
+
+<br />
+
 2019-11-02
 
 > 第65题：实现数组map方法
@@ -24,30 +32,6 @@
 > 第64题：原生 JS 面试题
 
 解析: [第64天](https://github.com/neptoo/one-step/issues/64)
-
-<br />
-
-2019-10-31
-
-> 第63题：CSS阴影动画优化
-
-解析: [第63天](https://github.com/neptoo/one-step/issues/63)
-
-<br />
-
-2019-10-30
-
-> 第62题：点击改变样式
-
-解析: [第62天](https://github.com/neptoo/one-step/issues/62)
-
-<br />
-
-2019-10-29
-
-> 第61题：ES6对象与ES5对象
-
-解析: [第61天](https://github.com/neptoo/one-step/issues/61)
 
 <br />
 
