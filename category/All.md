@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-11-04
+
+> 第66题：实现数组reduce方法
+
+解析: [第66天](https://github.com/neptoo/one-step/issues/66)
+
+<br />
+
 2019-11-03
 
 > 第66题：实现CodingMan
