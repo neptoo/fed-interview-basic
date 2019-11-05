@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-11-05
+
+> 第67题：实现 Object.create()
+
+解析: [第67天](https://github.com/neptoo/one-step/issues/67)
+
+<br />
+
 2019-11-04
 
 > 第66题：实现数组reduce方法
