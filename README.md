@@ -11,19 +11,27 @@
 
 ## 目录
 
+2019-11-06
+
+> 第69题：手写 bind 函数
+
+解析: [第69天](https://github.com/neptoo/one-step/issues/69)
+
+<br />
+
 2019-11-05
 
-> 第67题：实现 Object.create()
+> 第68题：实现 Object.create()
 
-解析: [第67天](https://github.com/neptoo/one-step/issues/67)
+解析: [第68天](https://github.com/neptoo/one-step/issues/68)
 
 <br />
 
 2019-11-04
 
-> 第66题：实现数组reduce方法
+> 第67题：实现数组reduce方法
 
-解析: [第66天](https://github.com/neptoo/one-step/issues/66)
+解析: [第67天](https://github.com/neptoo/one-step/issues/67)
 
 <br />
 
