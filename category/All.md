@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-11-08
+
+> 第71题：JavaScript 01背包问题
+
+解析: [第71天](https://github.com/neptoo/one-step/issues/71)
+
+<br />
+
 2019-11-07
 
 > 第70题：函数柯里化
