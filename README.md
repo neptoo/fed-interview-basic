@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-11-09
+
+> 第72题：CSS知识点
+
+解析: [第72天](https://github.com/neptoo/one-step/issues/72)
+
+<br />
+
 2019-11-08
 
 > 第71题：JavaScript 01背包问题
