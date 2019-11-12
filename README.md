@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-11-12
+
+> 第75题：图片懒加载
+
+解析: [第75天](https://github.com/neptoo/one-step/issues/75)
+
+<br />
+
 2019-11-11
 
 > 第74题：CSS实现人脸扫描效果
@@ -19,85 +27,7 @@
 
 <br />
 
-2019-11-10
 
-> 第73题：CSS知识点(2)
-
-解析: [第73天](https://github.com/neptoo/one-step/issues/73)
-
-<br />
-
-2019-11-09
-
-> 第72题：CSS知识点
-
-解析: [第72天](https://github.com/neptoo/one-step/issues/72)
-
-<br />
-
-2019-11-08
-
-> 第71题：JavaScript 01背包问题
-
-解析: [第71天](https://github.com/neptoo/one-step/issues/71)
-
-<br />
-
-2019-11-07
-
-> 第70题：函数柯里化
-
-解析: [第70天](https://github.com/neptoo/one-step/issues/70)
-
-<br />
-
-2019-11-06
-
-> 第69题：手写 bind 函数
-
-解析: [第69天](https://github.com/neptoo/one-step/issues/69)
-
-<br />
-
-2019-11-05
-
-> 第68题：实现 Object.create()
-
-解析: [第68天](https://github.com/neptoo/one-step/issues/68)
-
-<br />
-
-2019-11-04
-
-> 第67题：实现数组reduce方法
-
-解析: [第67天](https://github.com/neptoo/one-step/issues/67)
-
-<br />
-
-2019-11-03
-
-> 第66题：实现CodingMan
-
-解析: [第66天](https://github.com/neptoo/one-step/issues/66)
-
-<br />
-
-2019-11-02
-
-> 第65题：实现数组map方法
-
-解析: [第65天](https://github.com/neptoo/one-step/issues/65)
-
-<br />
-
-2019-11-01
-
-> 第64题：原生 JS 面试题
-
-解析: [第64天](https://github.com/neptoo/one-step/issues/64)
-
-<br />
 
 ... ... ...
 
