@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-11-17
+
+> 第80题：Promise 注册微任务和执行过程 
+
+解析: [第80天](https://github.com/neptoo/one-step/issues/80)
+
+<br />
+
 2019-11-16
 
 > 第79题：new
