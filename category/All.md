@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-11-19
+
+> 第81题：Vue全局API
+
+解析: [第81天](https://github.com/neptoo/one-step/issues/81)
+
+<br />
+
 2019-11-17
 
 > 第80题：Promise 注册微任务和执行过程 
