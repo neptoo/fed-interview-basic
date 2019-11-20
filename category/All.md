@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-11-20
+
+> 第82题：== 和 === 区别
+
+解析: [第82天](https://github.com/neptoo/one-step/issues/82)
+
+<br />
+
 2019-11-19
 
 > 第81题：Vue全局API
