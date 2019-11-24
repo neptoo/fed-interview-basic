@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-11-24
+
+> 第86题：橡皮筋特效解决方案
+
+解析: [第86天](https://github.com/neptoo/one-step/issues/85)
+
+<br />
+
 2019-11-23
 
 > 第85题：数组扁平化
@@ -27,29 +35,7 @@
 
 <br />
 
-2019-11-21
-
-> 第83题：数组降维
-
-解析: [第83天](https://github.com/neptoo/one-step/issues/83)
-
-<br />
-
-2019-11-20
-
-> 第82题：== 和 === 区别
-
-解析: [第82天](https://github.com/neptoo/one-step/issues/82)
-
-<br />
-
-2019-11-19
-
-> 第81题：Vue全局API
-
-解析: [第81天](https://github.com/neptoo/one-step/issues/81)
-
-<br />2019-11-17
+2019-11-17
 
 > 第80题：Promise 注册微任务和执行过程 
 
