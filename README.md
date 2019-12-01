@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-12-01
+
+> 第92题：Nginx 知识点
+
+解析: [第92天](https://github.com/neptoo/one-step/issues/92)
+
+<br />
+
 2019-11-30
 
 > 第91题：Node.js 知识点
@@ -24,22 +32,6 @@
 > 第90题：闭包
 
 解析: [第90天](https://github.com/neptoo/one-step/issues/90)
-
-<br />
-
-2019-11-28
-
-> 第89题：JS 变量存储
-
-解析: [第89天](https://github.com/neptoo/one-step/issues/89)
-
-<br />
-
-2019-11-27
-
-> 第88题：模块化
-
-解析: [第88天](https://github.com/neptoo/one-step/issues/88)
 
 <br />
 
@@ -58,80 +50,6 @@
 解析: [第86天](https://github.com/neptoo/one-step/issues/86)
 
 <br />
-
-2019-11-23
-
-> 第85题：数组扁平化
-
-解析: [第85天](https://github.com/neptoo/one-step/issues/85)
-
-<br />
-
-2019-11-22
-
-> 第84题：什么是中台
-
-解析: [第84天](https://github.com/neptoo/one-step/issues/84)
-
-<br />
-
-2019-11-17
-
-> 第80题：Promise 注册微任务和执行过程 
-
-解析: [第80天](https://github.com/neptoo/one-step/issues/80)
-
-<br />
-
-2019-11-16
-
-> 第79题：new
-
-解析: [第79天](https://github.com/neptoo/one-step/issues/79)
-
-<br />
-
-2019-11-15
-
-> 第78题：CSS实现行星旋转轨迹
-
-解析: [第78天](https://github.com/neptoo/one-step/issues/78)
-
-<br />
-
-2019-11-14
-
-> 第77题：HTTP/2的多路复用
-
-解析: [第77天](https://github.com/neptoo/one-step/issues/77)
-
-<br />
-
-2019-11-13
-
-> 第76题：三次握手与四次挥手
-
-解析: [第76天](https://github.com/neptoo/one-step/issues/76)
-
-<br />
-
-2019-11-12
-
-> 第75题：图片懒加载
-
-解析: [第75天](https://github.com/neptoo/one-step/issues/75)
-
-<br />
-
-2019-11-11
-
-> 第74题：CSS实现人脸扫描效果
-
-解析: [第74天](https://github.com/neptoo/one-step/issues/74)
-
-<br />
-
-
 
 ... ... ...
 

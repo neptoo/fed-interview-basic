@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-12-01
+
+> 第92题：Nginx 知识点
+
+解析: [第92天](https://github.com/neptoo/one-step/issues/92)
+
+<br />
+
 2019-11-30
 
 > 第91题：Node.js 知识点
