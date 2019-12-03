@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-12-03
+
+> 第94题：闭包二
+
+解析: [第94天](https://github.com/neptoo/one-step/issues/94)
+
+<br />
+
 2019-12-02
 
 > 第93题：this
