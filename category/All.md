@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-12-04
+
+> 第95题：Map
+
+解析: [第95天](https://github.com/neptoo/one-step/issues/95)
+
+<br />
+
 2019-12-03
 
 > 第94题：闭包二
