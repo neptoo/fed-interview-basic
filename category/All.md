@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-12-05
+
+> 第96题：URL解析
+
+解析: [第96天](https://github.com/neptoo/one-step/issues/96)
+
+<br />
+
 2019-12-04
 
 > 第95题：Map
