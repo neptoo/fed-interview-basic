@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-12-07
+
+> 第98题：30 seconds of es6 之数组篇（1）
+
+解析: [第98天](https://github.com/neptoo/one-step/issues/98)
+
+<br />
+
 2019-12-06
 
 > 第97题：line-height行高
