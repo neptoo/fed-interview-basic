@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-12-08
+
+> 第99题：30 seconds of es6 之数组篇（2）
+
+解析: [第99天](https://github.com/neptoo/one-step/issues/99)
+
+<br />
+
 2019-12-07
 
 > 第98题：30 seconds of es6 之数组篇（1）
