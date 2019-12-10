@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-12-10
+
+> 第101题：页面渲染性能优化
+
+解析: [第101天](https://github.com/neptoo/one-step/issues/101)
+
+<br />
+
 2019-12-09
 
 > 第100题：30 seconds of es6 之数组篇（3）
