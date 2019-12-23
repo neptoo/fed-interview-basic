@@ -11,6 +11,14 @@
 
 ## 目录
 
+2019-12-23
+
+> 第112题：30 seconds of es6 之数组篇(4)
+
+解析: [第112天](https://github.com/neptoo/one-step/issues/112)
+
+<br />
+
 2019-12-22
 
 > 第111题：闭包三
