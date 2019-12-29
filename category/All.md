@@ -1,5 +1,13 @@
 ## 题目汇总
 
+2019-12-29
+
+> 第113题：new
+
+解析: [第113天](https://github.com/neptoo/one-step/issues/113)
+
+<br />
+
 2019-12-23
 
 > 第112题：30 seconds of es6 之数组篇(4)

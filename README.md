@@ -11,27 +11,11 @@
 
 ## 目录
 
-2019-12-23
+2019-12-29
 
-> 第112题：30 seconds of es6 之数组篇(4)
+> 第113题：new
 
-解析: [第112天](https://github.com/neptoo/one-step/issues/112)
-
-<br />
-
-2019-12-22
-
-> 第111题：闭包三
-
-解析: [第111天](https://github.com/neptoo/one-step/issues/111)
-
-<br />
-
-2019-12-19
-
-> 第110题：渲染十万条数据
-
-解析: [第110天](https://github.com/neptoo/one-step/issues/110)
+解析: [第113天](https://github.com/neptoo/one-step/issues/113)
 
 <br />
 
